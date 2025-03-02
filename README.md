@@ -18,7 +18,7 @@ Sentimind is an **AI-driven sentiment analysis tool** that processes customer fe
 ### **1️⃣ Clone the Repository**
 ```sh
 # Clone the project
-git clone https://github.com/your-username/sentimind.git
+git clone git@github.com:arnest-innovation/Sentimind.git
 
 # Navigate into the directory
 cd sentimind
