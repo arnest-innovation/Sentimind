@@ -13,11 +13,6 @@ Sentimind is an **AI-driven sentiment analysis tool** that processes customer fe
 
 ---
 
-sentimind/
-│-- functions/assets/
-│   ├── sentimind-diagram.webp
-│-- README.md
-
 ![Sentimind Architecture](/functions/assets/sentimind-diagram.webp)
 
 ---
